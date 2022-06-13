@@ -6,6 +6,7 @@ yum install wget -y
 yum install finger -y
 yum install sysstat -y
 yum install vim -y
+yum install apache
 
 # user creation
 
